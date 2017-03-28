@@ -1,0 +1,14 @@
+javamail link:
+https://java.net/projects/javamail/pages/Home
+
+SO thread:
+http://stackoverflow.com/questions/46663/how-can-i-send-an-email-by-java-application-using-gmail-yahoo-or-hotmail?noredirect=1&lq=1
+
+SO thread on Gmail auth:
+http://stackoverflow.com/questions/3649014/send-email-using-java
+
+Oracle Docs on Gmail auth:
+http://www.oracle.com/technetwork/java/faq-135477.html#gmail
+
+Google API Devs:
+https://developers.google.com/gmail/api/?hl=en
