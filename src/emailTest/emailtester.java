@@ -33,7 +33,7 @@ public class emailtester {
 		{
 			sms = "TEST MESSAGE";
 			Message msg = new MimeMessage(session);
-			msg.setFrom(new InternetAddress("j7encrypted@gmail.com", "Craigslist-Free Bot"));
+			msg.setFrom(new InternetAddress("j7encrypted@gmail.com", "test bot"));
 			msg.addRecipient(Message.RecipientType.TO, new InternetAddress(address, "smsLine"));
 			msg.setSubject("Craigslist Free Bot found a new post!");
 			msg.setText(sms);
